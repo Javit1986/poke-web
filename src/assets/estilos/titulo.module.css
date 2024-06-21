@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
+
+.titulo {
+  
+  color: rgba(0, 0, 0, 0.637);
+  position: fixed;
+  top: 70vh;
+left: 42vw;  
+ font-family: "Cabin", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: italic;
+ font-size:80px;
+    z-index: 1000;
+  padding: 0px;
+
+}

@@ -1,0 +1,12 @@
+.pokemones-style {
+  text-align: center;
+  color: blueviolet;
+  background-color: darkseagreen;
+}
+
+.contenedor {
+  display: grid;
+  height: 40vh;
+  grid-template-rows: repeat(4, 1fr); /* 4 filas, cada una con 1fr */
+  grid-template-columns: repeat(5, 1fr); /* 5 columnas, cada una con 1fr */
+}

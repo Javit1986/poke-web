@@ -1,0 +1,30 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.body {
+  background-color: #ffc107;
+}
+
+.colores {
+  text-align: center;
+  color: #9f3030;
+  background-color: #ffc107de;
+  border-color: #9f3030;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  border-radius: 50px;
+  font-family: "Josefin Sans", sans-serif;
+  font-style: italic;
+}
+
+.contenedor {
+  display: grid;
+  height: 30vh;
+  grid-template-rows: repeat(4, 1fr); /* 4 filas, cada una con 1fr */
+  grid-template-columns: repeat(5, 1fr); /* 5 columnas, cada una con 1fr */
+}
