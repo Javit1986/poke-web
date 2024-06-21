@@ -68,9 +68,11 @@ button:focus-visible {
   :root {
     color: #213547;
     background-color: #448aff;
+    background-image: url("./assets/pokeback.png");
   }
   a:hover {
     color: #ff9800;
+    filter: drop-shadow(0 0 2em #000000aa);
   }
   button {
     background-color: #ffc107;

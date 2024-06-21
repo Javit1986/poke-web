@@ -1,17 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap");
 
 .titulo {
-  
-  color: rgba(0, 0, 0, 0.637);
+  color: #ff9800;
   position: fixed;
   top: 70vh;
-left: 42vw;  
- font-family: "Cabin", sans-serif;
+  left: 42vw;
+  font-weight: 700;
   font-optical-sizing: auto;
   font-weight: 700;
   font-style: italic;
- font-size:80px;
-    z-index: 1000;
-  padding: 0px;
-
+  font-size: 80px;
+  z-index: 1000;
+  padding: 12px;
+  background-color: #1f1f1fe0;
+  border-radius: 30px;
 }

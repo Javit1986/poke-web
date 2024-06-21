@@ -1,11 +1,11 @@
-  .pie {
-    background-color: #ffc107;
-    text-align: center;
-    padding: 20px;
-    margin:0;
-    position: fixed;
-    bottom: 0; 
-    left: 0; 
-    width: 100%; 
-    z-index: 1000;
-  }
+.pie {
+  background-color: hsla(45, 100%, 51%, 0.747);
+  text-align: center;
+  padding: 20px;
+  margin: 0;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+}
