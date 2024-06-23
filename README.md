@@ -1,4 +1,4 @@
-# EasterHack - reto05 
+# EasterHack - reto06
 
 
 Mirá la página acá -> [pokeApi](https://javit1986.github.io/poke-web/)
